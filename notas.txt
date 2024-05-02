@@ -1,0 +1,11 @@
+Para este proyecto se instalaron dependencias 
+
+Typescript para tipado solo como desarrollo npm i Typescript --save-dev
+ rescordar tsc --watch para ver cambios automaticamente 
+
+ express : framework de node para facilitar el desarrollo
+ al importarlo se solicitan instalar los tipados de express igual solo para desarrollo
+
+ cors : se genera para generar la url dado que se entablara conexion con el front
+
+ dotenv: administrar variables de entorno 
